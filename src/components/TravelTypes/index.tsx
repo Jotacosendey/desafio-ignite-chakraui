@@ -15,7 +15,7 @@ export function TravelTypes() {
       mx="auto"
       mt={["1.5rem", "8rem"]}
     >
-      <SimpleGrid flex="1" columns={{ base: 2, lg: 5 }}>
+      <SimpleGrid flex="1" columns={{ base: 2, lg: 5 }} >
         <Type image="/cocktail.svg" description="vida noturna" showTypeImage={isWideVersion} />
         <Type image="/surf.svg" description="praia" showTypeImage={isWideVersion} />
         <Type image="/building.svg" description="moderno" showTypeImage={isWideVersion} />

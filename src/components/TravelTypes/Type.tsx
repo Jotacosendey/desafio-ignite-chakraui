@@ -1,4 +1,4 @@
-import { Box, Icon, Image, Text } from "@chakra-ui/react";
+import { Box, Flex, Icon, Image, Text } from "@chakra-ui/react";
 import { BsDot } from 'react-icons/bs'
 
 interface TypeProps {
@@ -9,12 +9,11 @@ interface TypeProps {
 
 export function Type({ image, description, showTypeImage = true }: TypeProps) {
   return (
-    <Box>
+    <Flex direction="column" align="center" justify="center">
       {showTypeImage && (
         <Image
           src={image}
           color="yellow.950"
-          align="center"
         />
       )}
 
@@ -23,13 +22,12 @@ export function Type({ image, description, showTypeImage = true }: TypeProps) {
         fontWeight="semibold"
         fontSize="1.15rem"
         mt="1.4rem"
-        textAlign="center"
       >
         {!showTypeImage && (
           <Icon as={BsDot} color="yellow.950" fontSize="2.5rem" />
         )}
         {description}
       </Text>
-    </Box>
+    </Flex>
   );
 }
