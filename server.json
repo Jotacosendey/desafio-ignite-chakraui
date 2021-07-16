@@ -1,0 +1,278 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "name": "Europa",
+      "description": "O continente mais antigo",
+      "info": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+      "countries": 50,
+      "languages": 60,
+      "amountCities100": 32,
+      "home_image": "https://images.unsplash.com/photo-1508051306307-b36f794302a6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+      "cover_image": "https://images.unsplash.com/photo-1482401204742-eb3c31c24722?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1412&q=80",
+      "cities100": [
+        {
+          "id": 1,
+          "name": "Londres",
+          "country": "Reino Unido",
+          "city_image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_uk-flag.gif"
+        },
+        {
+          "id": 2,
+          "name": "Paris",
+          "country": "França",
+          "city_image": "https://images.unsplash.com/photo-1507666664345-c49223375e33?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=753&q=80",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_fr-flag.gif"
+        },
+        {
+          "id": 3,
+          "name": "Istambul",
+          "country": "Turquia",
+          "city_image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aXN0YW5idWx8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_tu-flag.gif"
+        },
+        {
+          "id": 4,
+          "name": "Roma",
+          "country": "Itália",
+          "city_image": "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cm9tYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_it-flag.gif"
+        },
+        {
+          "id": 5,
+          "name": "Praga",
+          "country": "República Tcheca",
+          "city_image": "https://images.unsplash.com/photo-1592906209472-a36b1f3782ef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJhZ2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_ez-flag.gif"
+        },
+        {
+          "id": 6,
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "city_image": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YW1zdGVyZGFtfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_nl-flag.gif"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ásia",
+      "description": "O maior continente do mundo",
+      "info": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa.",
+      "countries": 49,
+      "languages": 2300,
+      "amountCities100": 43,
+      "home_image": "https://images.unsplash.com/photo-1493780474015-ba834fd0ce2f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=726&q=80",
+      "cover_image": "https://images.unsplash.com/photo-1492571350019-22de08371fd3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=649&q=80",
+      "cities100": [
+        {
+          "id": 1,
+          "name": "Hong Kong",
+          "country": "China",
+          "city_image": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG9uZyUyMGtvbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_ch-flag.gif"
+        },
+        {
+          "id": 2,
+          "name": "Bangkok",
+          "country": "Tailândia",
+          "city_image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFuZ2tva3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_th-flag.gif"
+        },
+        {
+          "id": 3,
+          "name": "Macau",
+          "country": "China",
+          "city_image": "https://images.unsplash.com/photo-1556629538-fc3eba61504e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFjYXV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_ch-flag.gif"
+        },
+        {
+          "id": 4,
+          "name": "Singapura",
+          "country": "Singapura",
+          "city_image": "https://images.unsplash.com/photo-1581769157364-bf5e8d9d3dd4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2luZ2FwdXJhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_sn-flag.gif"
+        },
+        {
+          "id": 5,
+          "name": "Dubai",
+          "country": "Emirados Árabes Unidos",
+          "city_image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZHViYWl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_ae-flag.gif"
+        },
+        {
+          "id": 6,
+          "name": "Deli",
+          "country": "Índia",
+          "city_image": "https://images.unsplash.com/photo-1581326693291-ce497c5cf84d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVsaGl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_in-flag.gif"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "África",
+      "description": "A África selvagem",
+      "info": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra com cerca de um bilhão de pessoas.",
+      "countries": 54,
+      "languages": 2000,
+      "amountCities100": 4,
+      "home_image": "https://images.unsplash.com/photo-1511185307590-3c29c11275ca?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=748&q=80",
+      "cover_image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+      "cities100": [
+        {
+          "id": 1,
+          "name": "Cairo",
+          "country": "Egito",
+          "city_image": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2Fpcm98ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_eg-flag.gif"
+        },
+        {
+          "id": 2,
+          "name": "Joanesburgo",
+          "country": "África do Sul",
+          "city_image": "https://images.unsplash.com/photo-1610307766999-01f45d259959?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8am9oYW5uZXNidXJnfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_sf-flag.gif"
+        },
+        {
+          "id": 3,
+          "name": "Marrakesh",
+          "country": "Marrocos",
+          "city_image": "https://images.unsplash.com/photo-1517821115309-2c35b3906a7b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFycmFrZXNofGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_mo-flag.gif"
+        },
+        {
+          "id": 4,
+          "name": "Hurgada",
+          "country": "Egito",
+          "city_image": "https://images.unsplash.com/photo-1581769157364-bf5e8d9d3dd4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2luZ2FwdXJhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_eg-flag.gif"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Oceania",
+      "description": "O continente mais novo",
+      "info": "Oceania é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico. O termo Oceania é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes.",
+      "countries": 14,
+      "languages": 2000,
+      "amountCities100": 3,
+      "home_image": "https://images.unsplash.com/photo-1589330273594-fade1ee91647?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "cover_image": "https://images.unsplash.com/photo-1572887069591-1bbeecf58abe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1568&q=80",
+      "cities100": [
+        {
+          "id": 1,
+          "name": "Sydney",
+          "country": "Austrália",
+          "city_image": "https://images.unsplash.com/photo-1506374322094-6021fc3926f1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3lkbmV5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_as-flag.gif"
+        },
+        {
+          "id": 2,
+          "name": "Melbourne",
+          "country": "Austrália",
+          "city_image": "https://images.unsplash.com/photo-1613180106775-01e0b848b1ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWVsYm91cm5lJTIwY2l0eXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_as-flag.gif"
+        },
+        {
+          "id": 3,
+          "name": "Auckland",
+          "country": "Nova Zelândia",
+          "city_image": "https://images.unsplash.com/photo-1604367078108-3ed095682132?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YXVja2xhbmR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_nz-flag.gif"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "América do Sul",
+      "description": "As praias mais bonitas do mundo",
+      "info": "A América do Sul é um continente que compreende a porção meridional da América. Une-se à América Central a norte pelo istmo do Panamá e se separa da Antártida ao sul pelo estreito de Drake. O Brasil representa atualmente a metade da população e produto econômico desta região.",
+      "countries": 13,
+      "languages": 456,
+      "amountCities100": 3,
+      "home_image": "https://images.unsplash.com/photo-1517786861470-fd3175e5e530?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+      "cover_image": "https://images.unsplash.com/photo-1543385426-191664295b58?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=858&q=80",
+      "cities100": [
+        {
+          "id": 1,
+          "name": "Buenos Aires",
+          "country": "Argentina",
+          "city_image": "https://images.unsplash.com/photo-1589909202802-8f4aadce1849?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnVlbm9zJTIwYWlyZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_ar-flag.gif"
+        },
+        {
+          "id": 2,
+          "name": "Lima",
+          "country": "Peru",
+          "city_image": "https://images.unsplash.com/photo-1577587230708-187fdbef4d91?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGltYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_pe-flag.gif"
+        },
+        {
+          "id": 3,
+          "name": "Rio de Janeiro",
+          "country": "Brasil",
+          "city_image": "https://images.unsplash.com/photo-1518639192441-8fce0a366e2e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmlvJTIwZGUlMjBqYW5laXJvfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_br-flag.gif"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "América do Norte",
+      "description": "American way of life",
+      "info": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. O subcontinente é limitado a norte pelo Oceano Glacial Ártico, a leste pelo Oceano Atlântico, a sul pela América Central. pelo Golfo do México e Mar das Caraíbas e a oeste pelo oceano Pacífico. ",
+      "countries": 3,
+      "languages": 256,
+      "amountCities100": 9,
+      "home_image": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "cover_image": "https://images.unsplash.com/photo-1515163988842-60ece4c9a5bb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "cities100": [
+        {
+          "id": 1,
+          "name": "Nova Iorque",
+          "country": "Estados Unidos",
+          "city_image": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG5ldyUyMHlvcmt8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_us-flag.gif"
+        },
+        {
+          "id": 2,
+          "name": "Miami",
+          "country": "Estados Unidos",
+          "city_image": "https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWlhbWl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_us-flag.gif"
+        },
+        {
+          "id": 3,
+          "name": "Los Angeles",
+          "country": "Estados Unidos",
+          "city_image": "https://images.unsplash.com/photo-1460881680858-30d872d5b530?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGxvcyUyMGFuZ2VsZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_us-flag.gif"
+        },
+        {
+          "id": 4,
+          "name": "Las Vegas",
+          "country": "Estados Unidos",
+          "city_image": "https://images.unsplash.com/photo-1605833556294-ea5c7a74f57d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bGFzJTIwdmVnYXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_us-flag.gif"
+        },
+        {
+          "id": 5,
+          "name": "Cancún",
+          "country": "México",
+          "city_image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZHViYWl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_mx-flag.gif"
+        },
+        {
+          "id": 6,
+          "name": "Orlando",
+          "country": "Estados Unidos",
+          "city_image": "https://images.unsplash.com/photo-1575089776834-8be34696ffb9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fG9ybGFuZG98ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "flag_icon": "https://www.worldometers.info/img/flags/small/tn_us-flag.gif"
+        }
+      ]
+    }
+  ]
+}
